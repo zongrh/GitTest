@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/GitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GitTest.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GitTest.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app2/GitTest.app2.iml" filepath="$PROJECT_DIR$/.idea/modules/app2/GitTest.app2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app3/GitTest.app3.iml" filepath="$PROJECT_DIR$/.idea/modules/app3/GitTest.app3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mylibrary1/GitTest.mylibrary1.iml" filepath="$PROJECT_DIR$/.idea/modules/mylibrary1/GitTest.mylibrary1.iml" />
+    </modules>
+  </component>
+</project>

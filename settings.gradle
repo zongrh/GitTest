@@ -13,6 +13,3 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "GitTest"
-include ':app'
-include ':mylibrary1'
-include ':app2'
